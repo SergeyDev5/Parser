@@ -1,1 +1,1 @@
-I'm writing app parser for update my skills
+I was write app parser for update my skills
